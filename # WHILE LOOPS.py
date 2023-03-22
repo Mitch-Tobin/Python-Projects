@@ -1,8 +1,10 @@
 # WHILE LOOPS
 
-# A While loop will execute a set of statements as long as a condition is true
+# A While loop will execute a set of statements as long as a condition is false
 # Think of video games, as long as our video game is {on} / playing the code will
 # run allowing the video game to be played
+
+#but once the character runs out of lives, or beats the game, the game ends and the loop is finished
 
 # Example 1 - Easy while loop
 i = 1
